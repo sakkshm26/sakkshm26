@@ -1,7 +1,6 @@
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Saksham</h1>
 <h3 align="center">I am passionate about Competitive Programming and Web Development</h3>
-
 <br>
 
 ## 🚀 Languages and Tools:
@@ -26,12 +25,12 @@
 
 <p align="left">
     <a href="https://github.com/sakkshm26/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sakkshm26&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Saksham Sharma's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sakkshm26&theme=react&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 <br/>
 
-<a href="https://github.com/sakkshm26/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sakkshm26&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/sakkshm26/github-readme-activity-graph"><img alt="Saksham Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sakkshm26&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ## Connect with me:
 <p align="left">
