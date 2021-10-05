@@ -3,7 +3,6 @@
 <h3 align="center">I am passionate about Competitive Programming and Web Development</h3>
 
 <br>
-<br>
 
 ## 🚀 Languages and Tools:
 
@@ -16,8 +15,6 @@
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
     
 </p>
-
-<br/>
 
 ## 📊 My Github Stats
 
@@ -32,11 +29,9 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sakkshm26&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<br>
+<br/>
 
 <a href="https://github.com/sakkshm26/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sakkshm26&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
 
 ## Connect with me:
 <p align="left">
