@@ -15,7 +15,7 @@
     
 </p>
 
-## 📊 My Github Stats
+
 
   <br/>
     <a href="https://github.com/sakkshm26/github-readme-stats"><img alt="Saksham Sharma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sakkshm26&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -33,8 +33,6 @@
     </a>
 </p>
 <br/>
-
-
 
 <a href="https://github.com/sakkshm26/github-readme-activity-graph"><img alt="Saksham Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sakkshm26&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
