@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Saksham</h1>
-<h3 align="center">I am passionate about Competitive Programming and Web Development</h3>
+<h3 align="center">I am passionate about Open Source, Web Development and Competitive Programming</h3>
 <br>
 
 ## 🚀 Languages and Tools:
