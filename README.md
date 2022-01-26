@@ -14,6 +14,8 @@
 ![React](https://img.shields.io/badge/-react-white?style=for-the-badge&logo=react&logoColor=61DBFB)
 ![C++](https://img.shields.io/badge/-cpp-5E97D0?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=4B8BBE)
+![Django](https://img.shields.io/badge/-django-092e20?style=for-the-badge&logo=django&logoColor=white)
+![Golang](https://img.shields.io/badge/-go-313131?style=for-the-badge&logo=go&logoColor=29BEB0)
 ![Git](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white)
 </h1>
 
