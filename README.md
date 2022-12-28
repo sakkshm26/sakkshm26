@@ -1,9 +1,8 @@
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Saksham</h1>
-<h3 align="center">I am passionate about Open Source, Web Development and Competitive Programming</h3>
-<br>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<!-- <br> -->
 
-## 🚀 Languages and Tools:
+<!-- ## 🚀 Languages and Tools:
 
 <h1 align = "center">
 
@@ -17,11 +16,11 @@
 ![Django](https://img.shields.io/badge/-django-092e20?style=for-the-badge&logo=django&logoColor=white)
 ![Golang](https://img.shields.io/badge/-go-313131?style=for-the-badge&logo=go&logoColor=29BEB0)
 ![Git](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-</h1>
+</h1> -->
 
 
 
-  <br/>
+<!--   <br/>
     <a href="https://github.com/sakkshm26/github-readme-stats"><img alt="Saksham Sharma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sakkshm26&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
  
   <br/>
@@ -36,18 +35,19 @@
 </p>
 <br/>
 
-<a href="https://github.com/sakkshm26/github-readme-activity-graph"><img alt="Saksham Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sakkshm26&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/sakkshm26/github-readme-activity-graph"><img alt="Saksham Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sakkshm26&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
-## Connect with me:
-<p align="left">
+<!-- ## Let's Connect: -->
+<h2 align="center">Let's Connect:</h2>
+<h3 align = "center">
 
 <a href = "https://www.linkedin.com/in/sakshamsharma630/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/sakkshm_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
-</p>
+</h3>
 
-<br>
+<!-- <br>
 
 <a href="https://github.com/sakkshm26/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=sakkshm26">
-</a>
+</a> -->
