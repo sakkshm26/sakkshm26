@@ -1,53 +1,47 @@
+## Hi 👋, I'm Saksham
+Software developer focused on creating scalable solutions, driven by a keen interest in startups, machine learning and tackling intricate business challenges.  
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<!-- <br> -->
+Drop a message if you'd like to discuss tech, startups, astronomy, sports, or life.
 
-<!-- ## 🚀 Languages and Tools:
+[![Linkedin Badge](https://img.shields.io/badge/-Saksham%20Sharma-0072b1?style=flat&labelColor=0072b1&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshamsharma630/)
+[![Mail Badge](https://img.shields.io/badge/-sakshamsharma630-ea4335?style=flat&labelColor=ea4335&logo=gmail&logoColor=white)](mailto:sakshamsharma630@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@sakkshm__-1D9bf0?style=flat&labelColor=1D9bf0&logo=twitter&logoColor=white)](https://twitter.com/sakkshm_)
 
-<h1 align = "center">
+## Technologies
+* Languages
 
-![HTML5](https://img.shields.io/badge/-html5-d9534f?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-bootstrap-5448C8?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Javascript](https://img.shields.io/badge/-javascript-FFED66?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-react-white?style=for-the-badge&logo=react&logoColor=61DBFB)
-![C++](https://img.shields.io/badge/-cpp-5E97D0?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=4B8BBE)
-![Django](https://img.shields.io/badge/-django-092e20?style=for-the-badge&logo=django&logoColor=white)
-![Golang](https://img.shields.io/badge/-go-313131?style=for-the-badge&logo=go&logoColor=29BEB0)
-![Git](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-</h1> -->
+  ![image](https://img.shields.io/badge/JavaScript-f0db4f.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![image](https://img.shields.io/badge/TypeScript-007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![image](https://img.shields.io/badge/Python-ffde57?style=for-the-badge&logo=python&logoColor=black)
+  ![image](https://img.shields.io/badge/C%2B%2B-044f88?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
+* Frameworks and Libraries
 
-<!--   <br/>
-    <a href="https://github.com/sakkshm26/github-readme-stats"><img alt="Saksham Sharma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sakkshm26&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
- 
-  <br/>
+  ![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+  ![React & React Native](https://img.shields.io/badge/React_&_React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
+  
 
-<br/>
+* Databases
+
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 
-<p align="left">
-    <a href="https://github.com/sakkshm26/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Saksham Sharma's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sakkshm26&theme=react&hide_border=true&stroke=0000&background=0D1117"/>
-    </a>
-</p>
-<br/>
+* Other Tools
 
-<a href="https://github.com/sakkshm26/github-readme-activity-graph"><img alt="Saksham Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sakkshm26&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
 
-<!-- ## Let's Connect: -->
-<h2 align="center">Let's Connect:</h2>
-<h3 align = "center">
+<br>
 
-<a href = "https://www.linkedin.com/in/sakshamsharma630/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/sakkshm_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
-</h3>
-
-<!-- <br>
-
-<a href="https://github.com/sakkshm26/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=sakkshm26">
-</a> -->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sakkshm26&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" height="190" width="400" src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif">
