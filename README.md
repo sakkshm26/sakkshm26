@@ -7,6 +7,8 @@ Drop a message if you'd like to discuss tech, startups, astronomy, sports, or li
 [![Mail Badge](https://img.shields.io/badge/-sakshamsharma630-ea4335?style=flat&labelColor=ea4335&logo=gmail&logoColor=white)](mailto:sakshamsharma630@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@sakkshm__-1D9bf0?style=flat&labelColor=1D9bf0&logo=twitter&logoColor=white)](https://twitter.com/sakkshm_)
 
+<br>
+
 ## Technologies
 * Languages
 
@@ -41,6 +43,7 @@ Drop a message if you'd like to discuss tech, startups, astronomy, sports, or li
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
 
+<br>
 <br>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sakkshm26&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
