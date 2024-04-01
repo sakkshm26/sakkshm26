@@ -47,4 +47,3 @@ Drop a message if you'd like to discuss tech, startups, astronomy, sports, or li
 <br>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sakkshm26&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right" height="190" width="400" src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif">
